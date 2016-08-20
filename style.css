@@ -312,7 +312,7 @@ p img {
 
 .save-list ul li a i {
     display: block;
-    height: 44px;
+    height: 40px;
     width: 100%;
 }
 
@@ -360,21 +360,21 @@ p img {
 
 .save-list ul li a i.v-izb img {
     display: block;
-    width: 36px;
+    width: 30px;
     height: auto;
     margin: 0 auto;
 }
 
 .save-list ul li a i.s-pdf img {
     display: block;
-    width: 36px;
+    width: 30px;
     height: auto;
     margin: 0 auto;
 }
 
 .save-list ul li a i.s-print img {
     display: block;
-    width: 36px;
+    width: 30px;
     height: auto;
     margin: 0 auto;
 }
@@ -448,7 +448,7 @@ p img {
     vertical-align: middle;
     width: 5%;
     text-align: right;
-    font: 400 21px/25px "MyriadPro-Cond",Helvetica,Arial,sans-serif;
+    font: 400 20px/25px "MyriadPro-Cond",Helvetica,Arial,sans-serif;
     color: #a7a9ac;
 }
 
@@ -477,7 +477,7 @@ p img {
 }
 
 .num-rooms span {
-    font: 400 80px/87px "MyriadPro-Cond",Helvetica,Arial,sans-serif;
+    font: 400 70px/80px "MyriadPro-Cond",Helvetica,Arial,sans-serif;
 }
 
 
@@ -506,18 +506,18 @@ p img {
     display: inline-block;
     vertical-align: top;
     width: 50%;
-    font: 400 22px/25px "MyriadPro-LightCond",Helvetica,Arial,sans-serif;
+    font: 400 20px/24px "MyriadPro-LightCond",Helvetica,Arial,sans-serif;
 }
 
 .object-info-table-row .table-num {    
-    font: 400 51px/57px "MyriadPro-LightCond",Helvetica,Arial,sans-serif;
+    font: 400 48px/50px "MyriadPro-LightCond",Helvetica,Arial,sans-serif;
     font-weight: lighter;
     color: #458d5c;
     text-align: right;
 }
 
 .object-info-row h3.price {
-    font: 400 73px/76px "MyriadPro-LightCond",Helvetica,Arial,sans-serif;
+    font: 400 64px/74px "MyriadPro-LightCond",Helvetica,Arial,sans-serif;
     color: #a7a9ac;
     text-align: center;
     margin: 5% 0;
@@ -581,7 +581,7 @@ p img {
 
 .article-additional-info {
     position: relative;
-    border-bottom: 2px solid rgba(147, 149, 152, 1);
+    border-bottom: 1px solid rgba(147, 149, 152, 1);
 }
 
 .article-h {
@@ -595,11 +595,11 @@ p img {
     display: block;
     content: "";
     width: 100%;
-    height: 2px;
+    height: 1px;
     background: rgba(147, 149, 152, 1);
     position: absolute;
     bottom: 50%;
-    margin: -1px 0 0 0;
+    margin: 1px 0 0 0;
 }
 
 
@@ -609,7 +609,7 @@ p img {
     background: rgba(255, 255, 255, 1);
     margin: 0 auto;    
     padding: 0 40px;
-    font: 400 30px/45px "MyriadPro-LightCond",Helvetica,Arial,sans-serif;
+    font: 400 28px/33px "MyriadPro-LightCond",Helvetica,Arial,sans-serif;
     color: #a7a9ac;
     text-align: center;
     position: relative;
@@ -631,11 +631,11 @@ p img {
 }
 
 .article-list {
-
+    padding: 10px 0 0 0;
 }
 
 .article-list li {
-    font: 400 18px/22px "MyriadPro-Cond",Helvetica,Arial,sans-serif;
+    font: 400 17px/21px "MyriadPro-Cond",Helvetica,Arial,sans-serif;
     color: #333333;
 }
 
@@ -694,12 +694,12 @@ p img {
 }
 
 .article-column h3 {
-    font: 400 34px/38px "MyriadPro-LightCond",Helvetica,Arial,sans-serif;
+    font: 400 30px/39px "MyriadPro-LightCond",Helvetica,Arial,sans-serif;
     color: #8d458a;
 }
 
 .article-column p {
-    font: 400 22px/33px "MyriadPro-Cond",Helvetica,Arial,sans-serif;
+    font: 400 17px/25px "MyriadPro-Cond",Helvetica,Arial,sans-serif;
     color: #333333;
 }
 
@@ -711,7 +711,7 @@ p img {
 }
 
 .project-article h2 {
-    font: 400 34px/38px "MyriadPro-Cond",Helvetica,Arial,sans-serif;
+    font: 400 33px/37px "MyriadPro-Cond",Helvetica,Arial,sans-serif;
     color: #333333;
     padding: 20px 1%;
 }
@@ -728,7 +728,7 @@ p img {
 .projects-table-row {
     display: block;
     width: 100%;
-    padding: 10px 2%;
+    padding: 7px 2%;
     font-size: 0;
     line-height: 0;
 }
@@ -773,7 +773,7 @@ p img {
 }
 
 .table-cell p {
-    font: 400 18px/22px "MyriadPro-Cond",Helvetica,Arial,sans-serif;
+    font: 400 17px/21px "MyriadPro-Cond",Helvetica,Arial,sans-serif;
     color: #333333;
 }
 
@@ -784,7 +784,7 @@ p img {
 .projects-table-row .table-cell-8 i {
     display: inline-block;
     vertical-align: top;
-    width: 20px;
+    width: 17px;
     height: 20px;
     margin: 0 1.5%;
 }
