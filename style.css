@@ -195,13 +195,13 @@ p img {
 
 .object-item .left {
     display: block;
-    width: 70%;
+    width: 65%;
     float: left;
 }
 
 .object-info.right {
     display: block;
-    width: 30%;
+    width: 35%;
     float: right;
 }
 
