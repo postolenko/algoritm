@@ -195,13 +195,13 @@ p img {
 
 .object-item .left {
     display: block;
-    width: 65%;
+    width: 70%;
     float: left;
 }
 
 .object-info.right {
     display: block;
-    width: 35%;
+    width: 30%;
     float: right;
 }
 
@@ -244,7 +244,7 @@ p img {
 .swiper-slide {
     display: block;
     width: 47%;
-    height: 150px;
+    height: 180px;
     overflow: hidden;
     float: left;
     margin: 0 1.5%;
