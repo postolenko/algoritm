@@ -781,6 +781,87 @@ p img {
     color: #fc0810;
 }
 
+.projects-table-row .table-cell-8 i {
+    display: inline-block;
+    vertical-align: top;
+    width: 20px;
+    height: 20px;
+    margin: 0 1.5%;
+}
+
+.projects-table-row .table-cell-8 .copy {
+    background-image: url(img/copies.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+}
+
+.projects-table-row .table-cell-8 .play {
+    background-image: url(img/play.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+}
+
+.projects-table-row .table-cell-8 .download {
+    background-image: url(img/download.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+}
+
+.projects-table-row .table-cell-8 .rotate360 {
+    width: 25px;
+    height: 20px;
+    background-image: url(img/360.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+}
+
+.projects-table-row .table-cell-8 .file {
+    background-image: url(img/file.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+}
+
+
+.projects-table-row.active .table-cell-8 .copy {
+    background-image: url(img/copies_active.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+}
+
+.projects-table-row.active .table-cell-8 .play {
+    background-image: url(img/play_active.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+}
+
+.projects-table-row.active .table-cell-8 .download {
+    background-image: url(img/download.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+}
+
+.projects-table-row.active .table-cell-8 .rotate360 {
+    background-image: url(img/360.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+}
+
+.projects-table-row.active .table-cell-8 .file {
+    background-image: url(img/file_active.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+}
+
 .table-cell-1 {
     width: 21%;
 }
