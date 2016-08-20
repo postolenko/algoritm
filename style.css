@@ -195,19 +195,20 @@ p img {
 
 .object-item .left {
     display: block;
-    width: 65%;
+    width: 64%;
     float: left;
 }
 
 .object-info.right {
     display: block;
-    width: 35%;
+    width: 36%;
     float: right;
+    padding: 0 0 0 1%;
 }
 
 .object-slide {
     display: block;
-    width: 98%;
+    width: 100%;
 }
 
 .object-big-images {
@@ -260,7 +261,7 @@ p img {
     display: inline-block;
     vertical-align: middle;
     width: 30px;
-    height: 100%;
+    height: 30px;
     cursor: pointer;
     position: absolute;
     top: 50%;
@@ -506,18 +507,18 @@ p img {
     display: inline-block;
     vertical-align: top;
     width: 50%;
-    font: 400 20px/24px "MyriadPro-LightCond",Helvetica,Arial,sans-serif;
+    font: 400 18px/24px "MyriadPro-Cond",Helvetica,Arial,sans-serif;
 }
 
 .object-info-table-row .table-num {    
-    font: 400 48px/50px "MyriadPro-LightCond",Helvetica,Arial,sans-serif;
+    font: 400 45px/50px "MyriadPro-LightCond",Helvetica,Arial,sans-serif;
     font-weight: lighter;
     color: #458d5c;
     text-align: right;
 }
 
 .object-info-row h3.price {
-    font: 400 64px/74px "MyriadPro-LightCond",Helvetica,Arial,sans-serif;
+    font: 400 60px/68px "MyriadPro-LightCond",Helvetica,Arial,sans-serif;
     color: #a7a9ac;
     text-align: center;
     margin: 5% 0;
@@ -711,9 +712,9 @@ p img {
 }
 
 .project-article h2 {
-    font: 400 33px/37px "MyriadPro-Cond",Helvetica,Arial,sans-serif;
+    font: 400 33px/35px "MyriadPro-Cond",Helvetica,Arial,sans-serif;
     color: #333333;
-    padding: 20px 1%;
+    padding: 7px 1% 20px 1%;
 }
 
 
@@ -721,20 +722,25 @@ p img {
     display: block;
     width: 98%;
     margin: 0 auto;
-    padding: 5px 0 20px 0;
+    padding: 5px 1% 20px 1%;
     background: rgba(255, 255, 255, 1);
 }
 
 .projects-table-row {
     display: block;
     width: 100%;
-    padding: 7px 2%;
+    padding: 7px 1%;
     font-size: 0;
     line-height: 0;
 }
 
+.projects-table-row:nth-child(2n) {
+    background: rgba(246, 249, 252, 1);
+}
+
 .projects-table-row-top {
-    padding: 20px 2% 10px 2%;
+    padding: 20px 1% 10px 1%;
+    background: rgba(255, 255, 255, 1);
 }
 
 .projects-table-row-top .table-cell {
